@@ -1,4 +1,4 @@
-// Test Pull Request Comment
+// Graph Data Structure
 class Graph {
     constructor() {
         this.numberOfNodes = 0;
